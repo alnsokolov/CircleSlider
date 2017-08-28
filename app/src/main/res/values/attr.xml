@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleSlider">
+        <attr name="value" format="integer" />
+        <attr name="max_value" format="integer" />
+
+        <!--<attr name="show_value" format="boolean" />
+        <attr name="text_size" format="dimension" />
+        <attr name="text_color" format="color" />-->
+
+        <attr name="enabled" format="boolean" />
+        <attr name="focused" format="boolean" />
+
+        <attr name="rotation" format="integer" />
+        <attr name="max_angle" format="integer" />
+
+        <attr name="play_intro" format="boolean" />
+    </declare-styleable>
+</resources>
